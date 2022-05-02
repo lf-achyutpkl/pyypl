@@ -25,6 +25,7 @@ import Dashboard from './components/Dashboard';
 import './App.css';
 
 function App() {
+  console.log('rendering pyypl App');
   return (
     <div className='App'>
       <Router>
